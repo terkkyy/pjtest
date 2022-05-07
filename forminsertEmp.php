@@ -9,7 +9,7 @@
     
       <tr>
       
-      <td width="25%" align="right"> Id </td>
+      <td width="25%" align="right"> ID </td>
       <td align="left">
        
       <div class="form-group has-feedback" style="width:250px;">
